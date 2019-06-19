@@ -50,7 +50,7 @@ add paragraph text
 
 ![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/screen-shots/Screen-Shot-PVO-logo-position.png)
 
-### 2. Add row One column - right side content
+### 2. right side content (row One column was already added by default)
 
 * add text component above form: 
 
