@@ -35,7 +35,7 @@ edit text block style: Custom class names: `header-sticky`
 
 * PVO logo: add text block - paste HTML in source editor
 
-`<p><img height="30" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" /></p>`
+`<p><img id="pvo-logo" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" /></p>`
 
 edit text block style: Custom class names: `pvo-logo-heading`
 
