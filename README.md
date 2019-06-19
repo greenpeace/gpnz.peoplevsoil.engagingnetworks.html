@@ -13,18 +13,19 @@ Create a new petition
 
 ### Page 1
 
-Add advanced row for left side content
+Add advanced row width 1 column for left side content
+  add logos
 
-![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-PVO-logo-position.png)
+Add single row for right side content
+  text component above form: add class 'copy-toggle' - to enable show/hide
+  add form blocks for each field 
+  add class 'form-toggle' to name & phone fields - to enable show/hide
 
+Add advanced row for footer content set class 'footer-custom'
 
 ![Screen Shot advanced row 1](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-advanced-row-1.png)
 
-Add single row for right side content
-
-
-Add advanced row for footer content
-
+![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-PVO-logo-position.png)
 
 ### Page 2
 
