@@ -44,22 +44,22 @@ add class `copy-toggle` - to enable show/hide
   
 add class 'form-toggle' to name & phone fields - to enable show/hide
 
-### Add advanced row for footer content set class 'footer-custom'
+### Add advanced row for footer content set class `footer-custom`
 
 * add HTML to code block
 
-`<div id="footer-logos">
-	<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />
+`<div id="footer-logos">`
+	`<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />`
 	
-	<ul class="footer-social-media">
+	`<ul class="footer-social-media">
 		<li><a href="https://twitter.com/GreenpeaceNZ"><i class="fa fa-twitter fa-2x"></i></a></li>
 		<li><a href="https://www.facebook.com/greenpeace.nz"><i class="fa fa-facebook-official fa-2x"></i></a></li>
 		<li><a href="https://www.youtube.com/user/greenpeacenz/videos"><i class="fa fa-youtube-play fa-2x"></i></a></li>
 		<li><a href="https://www.instagram.com/greenpeacenz/"><i class="fa fa-instagram fa-2x"></i></a></li>
-	</ul>
+	</ul>`
 
-	<img class="footer-logos-right" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/greenpeace-black.svg" />
-</div>`
+	`<img class="footer-logos-right" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/greenpeace-black.svg" />`
+`</div>`
 
 * add HTML to text block
 
