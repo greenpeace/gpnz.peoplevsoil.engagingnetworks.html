@@ -3,6 +3,8 @@ Header / Footer template
 
 ## EN page builder instructions
 
+*Note: responsiveness is not fluid. When page loads the template code will apply style based on the the screen size.*
+
 ### Setup
 
 Create a template
