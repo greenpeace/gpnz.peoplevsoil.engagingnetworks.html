@@ -9,10 +9,6 @@ Create a template
 
 Paste Header / Footer code
 
-upload scripts to EN or to link external servers
-https://jquery.com/download/
-https://plugins.jquery.com/jquery.inputmask/
-
 Create a new petition 
 
 ## Page 1
