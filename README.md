@@ -95,6 +95,6 @@ https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.h
 
 `<div class="share-button donate" id="donate-button"><a class="donate-button"  href="link to chained donate page" target="_blank">donate now</a></div>`
 
-![Screen Shot campaign link](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen%20Shot%20campaign%20link.jpg)
+![Screen Shot campaign link](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/screen-shots/Screen%20Shot%20campaign%20link.jpg)
 
 
