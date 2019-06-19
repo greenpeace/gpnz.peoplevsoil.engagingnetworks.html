@@ -49,7 +49,8 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 * add HTML to code block
 
 `<div id="footer-logos">`
-	`<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />`
+
+`<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />`
 	
 	`<ul class="footer-social-media">
 		<li><a href="https://twitter.com/GreenpeaceNZ"><i class="fa fa-twitter fa-2x"></i></a></li>
