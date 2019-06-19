@@ -13,6 +13,11 @@ Create a new petition
 
 ## Page 1
 
+#### Structure
+1. Advanced row
+2. Single row
+3. Advanced row
+
 ### Add advanced row width 1 column for left side content
 
 * add GP logo HTML to text block
