@@ -1,0 +1,106 @@
+    <!-- email regex remove spaces/commas -->
+    <script src="linkto-emailInputCleanse.js"></script>
+    
+    <!-- input mask -->
+    <script src="linkto-jquery.inputmask.bundle.min.js"></script>
+
+<script>
+
+    if ($(window).width() < 1025) {
+      var intro = $('.en__component--row.en__component--advrow:first-of-type');
+        console.log("var intro ", intro);
+        $('.en__component--row--1').after(intro); 
+    }
+
+    $(intro).css({
+        'padding': '15px 25px 25px 25px',
+        'width': '90% !important',
+        'background-position': '-250px -590px, bottom left',
+        'background-image' : 'url(https://aaf1a18515da0e792f78-c27fdabe952dfc357fe25ebf5c8897ee.ssl.cf5.rackcdn.com/1939/peoplevsoil-hero-circle-image_02.png?v=1554777575000), linear-gradient(to right, rgba(31,213,155,1) 0%,rgba(39,225,190,1) 25%,rgba(40,228,198,1) 50%,rgba(44,233,213,1) 75%,rgba(49,242,238,1) 100%)',
+        'background-repeat': 'no-repeat, no-repeat, no-repeat'
+    });
+
+    $('.en__field--emailAddress').before('<div class="close">close <i class="fa fa-times"></i></div>')
+    $('.close').css({
+        'display': 'none',
+        // 'border': '1px solid black',
+        'text-align': 'right',
+        'cursor': 'pointer',
+        'padding': '0.25em'
+    });
+    
+    $("#en__field_supporter_emailAddress").click(function(){
+        $('.copy-toggle').hide('slow');
+        // if ($(window).width() > 800) {
+        //     $('.copy-toggle').hide('slow');
+        // }
+        $('.form-toggle').show('slow');
+        $('.form-toggle input:first-of-type').css('margin-top','1em');
+        $('.close').css('display', 'block');
+    });
+    $('input').focus(function(){
+        console.log(this);
+        var isemail = $(this).attr('name');
+        console.log("var isemail ", isemail);
+        if( isemail=='supporter.emailAddress' ){
+            $(this).closest('.en__field').addClass('is-active-email');
+        } else {
+            $(this).closest('.en__field').addClass('is-active');
+        }
+        
+    });
+
+    $('input').blur(function(){
+        if(this.value==""){
+            $(this).closest('.en__field').removeClass('is-active');
+            $(this).closest('.en__field').removeClass('is-active-email');
+        }
+    });        
+    
+    $('.close').click(function(){
+        console.log("click close");
+        $('.form-toggle').hide('slow');
+        $('.copy-toggle').show('slow');
+        $('.close').hide();
+    });
+     
+    console.log("document.body.offsetHeight ", document.body.offsetHeight);
+    console.log("window.innerHeight ", window.innerHeight);
+    
+    var $win = $(window);
+
+
+if ($(window).width() < 1025) {
+    console.log("< 800");
+
+    $('input').focus(function(){
+        console.log("input focus");
+        
+        var isemail = $(this).attr('name');
+        console.log("var isemail ", isemail);
+        if( isemail=='supporter.emailAddress' ){
+            setTimeout(function(){
+                window.scrollTo(0, 0);
+                console.log("setTimeout scrollTo");
+            }, 1000);
+        }
+    });
+}
+
+if ($(window).width() > 1024) {
+    
+    $win.scroll(function () {
+         if ($win.scrollTop() == 0)
+             $('.copy-toggle').show('slow');
+         else if ($win.height() + $win.scrollTop()
+                        == $(document).height()) {
+             $('.copy-toggle').hide('slow');
+         }
+     });
+}
+
+</script>
+
+
+    </body>
+</html>
