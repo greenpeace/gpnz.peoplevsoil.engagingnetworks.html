@@ -20,7 +20,6 @@
     $('.en__field--emailAddress').before('<div class="close">close <i class="fa fa-times"></i></div>')
     $('.close').css({
         'display': 'none',
-        // 'border': '1px solid black',
         'text-align': 'right',
         'cursor': 'pointer',
         'padding': '0.25em'
@@ -28,9 +27,6 @@
     
     $("#en__field_supporter_emailAddress").click(function(){
         $('.copy-toggle').hide('slow');
-        // if ($(window).width() > 800) {
-        //     $('.copy-toggle').hide('slow');
-        // }
         $('.form-toggle').show('slow');
         $('.form-toggle input:first-of-type').css('margin-top','1em');
         $('.close').css('display', 'block');
