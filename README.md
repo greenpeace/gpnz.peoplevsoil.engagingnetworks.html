@@ -44,7 +44,7 @@ add class `copy-toggle` - to enable show/hide
   
 add class 'form-toggle' to name & phone fields - to enable show/hide
 
-#### Add advanced row for footer content set class 'footer-custom'
+### Add advanced row for footer content set class 'footer-custom'
 
 * add HTML to code block
 
