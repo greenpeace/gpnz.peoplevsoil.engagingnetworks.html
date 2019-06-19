@@ -73,5 +73,11 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 
 ## Page 2
 
+* add thankyou text block
 
+* add Share buttons from Social Details
+
+* add text block with donate button HTML (use campaign link from text format buttons)
+
+`<div class="share-button donate" id="donate-button"><a class="donate-button"  href="link to chained donate page" target="_blank">donate now</a></div>`
 
