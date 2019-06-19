@@ -11,9 +11,9 @@ Paste Header / Footer code
 
 Create a new petition 
 
-### Page 1
+## Page 1
 
-#### Add advanced row width 1 column for left side content
+### Add advanced row width 1 column for left side content
 
 * add GP logo HTML to text block
  
@@ -27,14 +27,14 @@ edit text block style: Custom class names: `header-sticky`
 
 edit text block style: Custom class names: `pvo-logo-heading`
 
-* add HTML to text block
+* add HTML to main text block
 
 `<h1 id="mainHeading" style="color: #FFFFFF; box-sizing: inherit; font-size: 78px; margin: 40px 0px 21.375px; font-family: Anton, Helvetica, Arial, serif; line-height: 78px;">LET&#39;S<br style="box-sizing: inherit;">MAKE<br />
 OIL HISTORY</h1>`
 
 add paragraph text below heading
 
-#### Add single row for right side content
+### Add single row for right side content
 
 * add text component above form: 
 
@@ -70,7 +70,7 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 
 ![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-PVO-logo-position.png)
 
-### Page 2
+## Page 2
 
 
 
