@@ -20,24 +20,24 @@ Create a new petition
 
 ### 1. Add row Custom Layout 1 column (remove column 2)
 
-* add GP logo HTML to text block
+* GP logo: add text block - paste HTML in source editor
  
  `<p><img id="gp-logo-header" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/greenpeace-black.svg" /></p>`
 
 edit text block style: Custom class names: `header-sticky`
 
-* add PVO logo HTML to text block
+* PVO logo: add text block - paste HTML in source editor
 
 `<p><img height="30" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" /></p>`
 
 edit text block style: Custom class names: `pvo-logo-heading`
 
-* add HTML to main text block
+* Heading: add text block - paste HTML in source editor
 
 `<h1 id="mainHeading" style="color: #FFFFFF; box-sizing: inherit; font-size: 78px; margin: 40px 0px 21.375px; font-family: Anton, Helvetica, Arial, serif; line-height: 78px;">LET&#39;S<br style="box-sizing: inherit;">MAKE<br />
 OIL HISTORY</h1>`
 
-add paragraph text below heading
+add paragraph text
 
 ![Screen Shot advanced row 1](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-advanced-row-1.png)
 
@@ -56,7 +56,7 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 ### 3. Add row Custom Layout 1 column (remove column 2)
 ### Custom class names `footer-custom`
 
-* add HTML to code block
+* add code block: paste HTML
 
 `<div id="footer-logos">`
 
@@ -72,7 +72,7 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 	`<img class="footer-logos-right" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/greenpeace-black.svg" />`
 `</div>`
 
-* add HTML to text block
+* add text block paste HTML in source editor
 
 `<p style="text-align: center;"><span style="color: rgb(176, 176, 176); font-family: Amiko, Helvetica, Arial, serif; font-size: 12.8px; letter-spacing: -0.3px; text-align: center;">&copy;2019 - Greenpeace | All rights reserved</span></p>`
 
