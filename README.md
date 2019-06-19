@@ -21,7 +21,7 @@ Add single row for right side content
 
 Add advanced row for footer content
 
-![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/PVO-logo-position.png)
+![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen%20Shot%20row%20right%20sidebar.png)
 
 ### Page 2
 
