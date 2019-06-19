@@ -53,7 +53,7 @@ add class `copy-toggle` - to enable show/hide
   
 add class 'form-toggle' to name & phone fields - to enable show/hide
 
-### Add row Custom Layout 1 column (remove column 2)
+### 3. Add row Custom Layout 1 column (remove column 2)
 ### Custom class names `footer-custom`
 
 * add HTML to code block
