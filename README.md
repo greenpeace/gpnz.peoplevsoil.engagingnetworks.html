@@ -15,11 +15,13 @@ Create a new petition
 
 Add advanced row for left side content
 
+![Screen Shot advanced row 1](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-advanced-row-1.png)
+
 Add single row for right side content
 
 Add advanced row for footer content
 
-![Test Image 4](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/PVO-logo-position.png)
+![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/PVO-logo-position.png)
 
 ### Page 2
 
