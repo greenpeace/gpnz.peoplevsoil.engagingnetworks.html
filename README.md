@@ -81,4 +81,6 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 
 `<div class="share-button donate" id="donate-button"><a class="donate-button"  href="link to chained donate page" target="_blank">donate now</a></div>`
 
+![Screen Shot campaign link](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen%20Shot%20campaign%20link.jpg)
+
 ![Screen Shot footer logos](https://github.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/blob/master/Screen%20Shot%20footer%20logos.png)
