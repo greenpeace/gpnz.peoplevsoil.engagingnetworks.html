@@ -18,7 +18,7 @@ Create a new petition
 2. Single row - right column form
 3. Advanced row - footer
 
-### Add advanced row width 1 column for left side content
+### 1. Add row Custom Layout 1 column (remove column 2)
 
 * add GP logo HTML to text block
  
@@ -43,7 +43,7 @@ add paragraph text below heading
 
 ![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-PVO-logo-position.png)
 
-### Add single row for right side content
+### 2. Add row One column - right side content
 
 * add text component above form: 
 
@@ -53,7 +53,8 @@ add class `copy-toggle` - to enable show/hide
   
 add class 'form-toggle' to name & phone fields - to enable show/hide
 
-### Add advanced row for footer content set class `footer-custom`
+### Add row Custom Layout 1 column (remove column 2)
+### Custom class names `footer-custom`
 
 * add HTML to code block
 
