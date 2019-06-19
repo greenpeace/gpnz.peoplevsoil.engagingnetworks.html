@@ -13,6 +13,11 @@ Paste Header / Footer code
 
 Create a new petition 
 
+This is what you should see
+
+![Screen Shot new petition](
+https://github.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/blob/screen-shots/Screen%20Shot%20new%20petition.png?raw=true)
+
 ## Page 1
 
 #### Structure
