@@ -41,9 +41,9 @@ OIL HISTORY</h1>`
 
 add paragraph text
 
-![Screen Shot advanced row 1](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-advanced-row-1.png)
+![Screen Shot advanced row 1](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/screen-shots/Screen-Shot-advanced-row-1.png)
 
-![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen-Shot-PVO-logo-position.png)
+![Screen Shot PVO logo position](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/screen-shots/Screen-Shot-PVO-logo-position.png)
 
 ### 2. Add row One column - right side content
 
@@ -78,10 +78,10 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 
 `<p style="text-align: center;"><span style="color: rgb(176, 176, 176); font-family: Amiko, Helvetica, Arial, serif; font-size: 12.8px; letter-spacing: -0.3px; text-align: center;">&copy;2019 - Greenpeace | All rights reserved</span></p>`
 
-![Screen Shot footer logos](https://github.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/blob/master/Screen%20Shot%20footer%20logos.png)
+![Screen Shot footer logos](https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/screen-shots/Screen%20Shot%20footer%20logos.png)
 
 ![Screen Shot footer advanced row](
-https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen%20Shot%20footer%20advanced%20row.png)
+https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/screen-shots/Screen%20Shot%20footer%20advanced%20row.png)
 
 ## Page 2
 
