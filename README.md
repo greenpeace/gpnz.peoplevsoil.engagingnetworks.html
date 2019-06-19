@@ -77,6 +77,9 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 
 ![Screen Shot footer logos](https://github.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/blob/master/Screen%20Shot%20footer%20logos.png)
 
+![Screen Shot footer advanced row](
+https://raw.githubusercontent.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/master/Screen%20Shot%20footer%20advanced%20row.png)
+
 ## Page 2
 
 * Thank you: add text block
