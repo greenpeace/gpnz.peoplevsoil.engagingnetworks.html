@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="en">
+<head>
+    
+    <!-- GA/GTM/FB etc... include or paste -->
+    <!-- Google Tag Manager  -->
+    dataLayer = [];
+    <!-- End Google Tag Manager -->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=0"/>
+    <meta charset="utf-8">
+    <meta name=viewport content="width=device-width">
+    <title>${page~title}</title>
+    <meta name="description" content="To keep our planet liveable, let's Make Oil History!">
+    <meta property="og:title" content="People vs. Oil: Let's Make Oil History">
+    <meta property="og:description" content="To keep our planet liveable, let's Make Oil History!">
+    
+    <link rel="shortcut icon" type="image/x-icon" href="https://linktoimage.here">
+    
+    <meta property="og:site_name" content="Greenpeace" />
+    <meta property="fb:app_id" content="206443473453" />
+    <meta property="fb:admins" content="7297163299" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="Greenpeace" />
+    <meta name="twitter:title" content="Sign the petition now">
+    <meta name="twitter:creator" content="Greenpeace">
+    <meta name="twitter:description" content="To keep our planet liveable, let's Make Oil History!">
+    <meta name="twitter:image" content="https://linktoimage.here" />
+
+    <!-- Font Awesome -->
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+        
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Anton:400|Amiko:400,600,700');
+        .hidden{
+            display: none;
+        }
+        html{
+            min-height: 100%;
+        }
+        body{
+            font-family: Helvetica,Arial,serif;
+        }
+        body{
+            background-image: url(https://linktoimage.here);
+            background-image: url(https://linktoimage.here), -moz-linear-gradient(left, rgba(31,213,155,1) 0%, rgba(39,225,190,1) 25%, rgba(40,228,198,1) 50%, rgba(44,233,213,1) 75%, rgba(49,242,238,1) 100%);
+            background-image: url(https://linktoimage.here), -webkit-linear-gradient(left, rgba(31,213,155,1) 0%,rgba(39,225,190,1) 25%,rgba(40,228,198,1) 50%,rgba(44,233,213,1) 75%,rgba(49,242,238,1) 100%);
+            background-image: url(https://linktoimage.here), linear-gradient(to right, rgba(31,213,155,1) 0%,rgba(39,225,190,1) 25%,rgba(40,228,198,1) 50%,rgba(44,233,213,1) 75%,rgba(49,242,238,1) 100%);
+            background-repeat: no-repeat, no-repeat, no-repeat;
+            background-position: 85px -290px, bottom left;
+            background-size: 800px, 100% 100%;
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1fd59b', endColorstr='#31f2ee',GradientType=1 );
+            margin-left: -15px;
+            margin-right: -15px;
+            z-index: -2;
+            padding: 0;
+            margin: 0;
+        }
+        .header-sticky{
+            z-index: 100;
+            position: fixed !important;
+            top: 0;
+            left: 0;
+            height: 3em;
+            width: 100%;
+            background-color: #fff;
+        }
+        .footer-custom{
+            background-color: #fff;
+            padding-left: 15%;
+            padding-right: 15%;
+        }
+        .en__component--advrow:first-of-type{
+            margin-left: 15%;
+            margin-right: 15%;
+        }
+        .en__component--advrow:last-of-type{
+
+        }
+        .en__component--row.en__component--advrow:first-of-type{
+            display: block;
+            width: 25% !important
+        }
+        
+        .en__component--row--1{
+            position: fixed !important;
+            top: 0;
+            right: 15%;
+            width: 30%;
+            padding-top: 35px;
+            padding-left: 15px;
+            z-index: 5;
+            padding: 15px 25px 25px 25px;
+            background-color: #fff;
+            margin-top: 3em;
+        }
+        
+        .en__component--column {
+            min-width: auto !important;
+        }
+
+        .header {
+            font-family: "Anton",Helvetica,Arial,serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        h3 {
+            font-size: 2.25rem;
+        }
+
+        p, li, button {
+            font-family: "Amiko",Helvetica,Arial,serif;
+            font-weight: 400;
+            font-style: normal;
+            font-size: 16.0px;
+            letter-spacing: -0.3px;
+            line-height: 22.0px;
+            color: #4A4A4A;
+        }
+        textarea, select, input, button { outline: none; }
+        input{
+            border-radius: 3px;
+            border-style: solid;
+            border: 1px #29e5b7 solid;
+            padding: 10px !important;
+        }
+        .fineprint p{
+            font-size: 0.75em;
+            margin: 0 5%;
+        }
+        .en__field--emailAddress label{
+            padding: 5px 5px 0 5px !important;
+        }
+        label {
+            position: absolute;
+            height: 35px;
+            width: auto !important;
+            padding: 15px 5px 0 5px !important;
+            font-family: "Amiko",Helvetica,Arial,serif;
+            font-size: 16px;
+            line-height: 31px;
+            color: #29e5b7;
+            z-index: 10;
+            transition: all .2s ease-out;
+            cursor: text;
+        }
+        .en__field__label{
+            width: 100%;
+        }
+        .error-custom{
+            margin-top: 1em;
+        }
+        .is-active label{
+            font-size: 10px;
+            height: 10px;
+            top: -8px;
+            left: 20px;
+            padding: 2px 4px 2px 4px;
+            background-color: #fff;
+            line-height: 8px;
+            display: inline;
+        }
+        .is-active-email label{
+            font-size: 10px;
+            height: 10px;
+            top: 18px;
+            left: 20px;
+            padding: 2px 4px 2px 4px;
+            background-color: #fff;
+            line-height: 8px;
+            display: inline;
+        }
+        .en__field__element--checkbox{
+            display: none !important;
+        }
+        .en__submit button{
+            background-color: #f76402;
+            width: 100%;
+            height: 40px;
+            border: none;
+            color:white;
+
+        }
+        .en__field__error{
+            color: pink;
+        }
+        .en__component--formblock{
+            padding: 0 5%;
+        }
+        .en__field, .en__field__element, .en__field__input, .en__field__input--text{
+            width: 100% !important;
+        }
+        
+        .pvo-logo-heading{
+            margin-top: 100px;
+            margin-bottom: 130px;
+        }
+        #gp-logo-header{
+            margin-left: 15%;
+        }
+        #footer-logos{
+            display: flex;
+            padding-top: 3em;
+        }
+        #footer-logos i{
+            color: black;
+        }
+
+        .footer-social-media{
+            width: 300px;
+            margin: 0 auto;
+        }
+        
+        ul.footer-social-media {
+          list-style-type: none;
+          padding: 0;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-around;
+          flex-wrap: nowrap; /* assumes you only want one row */
+        }
+
+        .footer-logos-right{
+            margin-right: 0; 
+            float: right;
+        }
+        
+        .form-toggle{
+            display: none;
+        }
+        @media only screen and (max-width: 320px){
+            h3.header {font-size: 1.3em !important;}
+        }
+        
+        @media only screen and (min-width: 1320px){
+            body{
+                background-position: 285px -290px, bottom left;
+            }
+        }
+        
+        @media only screen and (max-width: 1024px){
+            #footer-logos {flex-direction: column; padding-top: 0;}
+            .footer-social-media{width: 200px;}
+            div#footer-logos img{padding: 1em;}
+            /*#mainHeading {margin-bottom: 1em !important;}*/
+            h3.header {margin-top: 0;}
+            .header-sticky{
+                text-align: center;
+            }
+            #gp-logo-header {
+                margin-left: 0;
+            }
+            .en__component--row--1{
+                position: relative !important;
+                right: auto;
+                width: 100%;
+                margin-top: 3em;
+            }
+            
+            .en__component--row.en__component--advrow:first-of-type{
+                width: 90% !important;
+                padding-left: 5%;
+                background-image: url(/docroot/assets/peoplevsoil2018/img/campaign-hero-circle-image_02.png), linear-gradient(to right, rgba(31,213,155,1) 0%,rgba(39,225,190,1) 25%,rgba(40,228,198,1) 50%,rgba(44,233,213,1) 75%,rgba(49,242,238,1) 100%);
+                background-repeat: no-repeat, no-repeat, no-repeat;
+            }
+            .en__component--advrow:first-of-type {
+                padding: 15px 25px 25px 25px;
+                width: 90% !important;
+                background-image: url(/docroot/assets/peoplevsoil2018/img/campaign-hero-circle-image_02.png), linear-gradient(to right, rgba(31,213,155,1) 0%,rgba(39,225,190,1) 25%,rgba(40,228,198,1) 50%,rgba(44,233,213,1) 75%,rgba(49,242,238,1) 100%);
+                background-repeat: no-repeat, no-repeat, no-repeat;
+            }
+            .footer-custom p {
+                margin: 0;
+            }
+        }
+
+/* Change the white to any color ;) */
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+    -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+/*** Styles added to fix the issue with zoom in on iphone ***/
+/* iPhone < 5: */
+@media screen and (device-aspect-ratio: 2/3) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"]{ font-size: 16px; }
+}
+
+/* iPhone 5, 5C, 5S, iPod Touch 5g */
+@media screen and (device-aspect-ratio: 40/71) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"]{ font-size: 16px; }
+}
+
+/* iPhone 6, iPhone 6s, iPhone 7 portrait/landscape */
+@media screen and (device-aspect-ratio: 375/667) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"]{ font-size: 16px; }
+}
+
+/* iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus portrait/landscape */
+@media screen and (device-aspect-ratio: 9/16) {
+    select, textarea, input[type="text"], input[type="password"],
+    input[type="datetime"], input[type="datetime-local"],
+    input[type="date"], input[type="month"], input[type="time"],
+    input[type="week"], input[type="number"], input[type="email"],
+    input[type="url"]{ font-size: 16px; }
+}
+
+    </style>
+        <!-- jQuery -->
+        <script src="https://linktoscript.here"></script>
+<head>
