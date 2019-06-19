@@ -22,7 +22,7 @@ https://github.com/greenpeace/gpnz.peoplevsoil.engagingnetworks.html/blob/screen
 
 #### Structure
 1. Advanced row - fixed header - left column
-2. Single column row - right column form
+2. Single column row - right column form (added by default when new page created)
 3. Advanced row - footer
 
 ### 1. Add row Custom Layout 1 column (remove column 2)
