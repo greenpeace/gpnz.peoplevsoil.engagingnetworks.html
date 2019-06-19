@@ -9,6 +9,10 @@ Create a template
 
 Paste Header / Footer code
 
+upload scripts to EN or to link external servers
+https://jquery.com/download/
+https://plugins.jquery.com/jquery.inputmask/
+
 Create a new petition 
 
 ## Page 1
@@ -53,10 +57,10 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 `<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />`
 	
 	`<ul class="footer-social-media">
-		<li><a href="https://twitter.com/GreenpeaceNZ"><i class="fa fa-twitter fa-2x"></i></a></li>
-		<li><a href="https://www.facebook.com/greenpeace.nz"><i class="fa fa-facebook-official fa-2x"></i></a></li>
-		<li><a href="https://www.youtube.com/user/greenpeacenz/videos"><i class="fa fa-youtube-play fa-2x"></i></a></li>
-		<li><a href="https://www.instagram.com/greenpeacenz/"><i class="fa fa-instagram fa-2x"></i></a></li>
+		<li><a href="https://twitter.com/"><i class="fa fa-twitter fa-2x"></i></a></li>
+		<li><a href="https://www.facebook.com/"><i class="fa fa-facebook-official fa-2x"></i></a></li>
+		<li><a href="https://www.youtube.com/"><i class="fa fa-youtube-play fa-2x"></i></a></li>
+		<li><a href="https://www.instagram.com/"><i class="fa fa-instagram fa-2x"></i></a></li>
 	</ul>`
 
 	`<img class="footer-logos-right" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/greenpeace-black.svg" />`
