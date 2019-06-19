@@ -5,9 +5,9 @@ Header / Footer template
 
 # Setup
 
-Create a template - 
-Header code here
-Footer code here
+Create a template
+
+Paste Header / Footer code
 
 Create a new petition 
 
