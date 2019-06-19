@@ -14,9 +14,9 @@ Create a new petition
 ## Page 1
 
 #### Structure
-1. Advanced row
-2. Single row
-3. Advanced row
+1. Advanced row - fixed header - left column
+2. Single row - right column form
+3. Advanced row - footer
 
 ### Add advanced row width 1 column for left side content
 
