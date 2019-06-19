@@ -99,6 +99,11 @@ if ($(window).width() > 1024) {
      });
 }
 
+$('#en__field_supporter_emailAddress').keyup(function(e){
+	e.target.value = e.target.value.replace(/\s/g, ''); /* remove all spaces from email */
+	e.target.value = e.target.value.replace(/,/g, '.'); /* replace commas with dots */
+});
+    
 </script>
 
 
