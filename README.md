@@ -1,9 +1,9 @@
 # gpnz.peoplevsoil.engagingnetworks.html
 Header / Footer template
 
-# EN page builder
+## EN page builder instructions
 
-# Setup
+### Setup
 
 Create a template
 
@@ -11,7 +11,7 @@ Paste Header / Footer code
 
 Create a new petition 
 
-# Page 1
+### Page 1
 
 Add advanced row for left side content
 
@@ -19,4 +19,4 @@ Add single row for right side content
 
 Add advanced row for footer content
 
-# Page 2
+### Page 2
