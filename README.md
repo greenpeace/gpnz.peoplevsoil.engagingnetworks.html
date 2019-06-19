@@ -15,7 +15,7 @@ Create a new petition
 
 Add advanced row for left side content
 
-Add simngle row for right side content
+Add single row for right side content
 
 Add advanced row for footer content
 
