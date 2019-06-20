@@ -66,7 +66,6 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 * add code block: paste HTML
 
 `<div id="footer-logos">`
-
 `<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />`
 	
 	`<ul class="footer-social-media">`
