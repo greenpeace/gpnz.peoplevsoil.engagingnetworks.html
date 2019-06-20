@@ -65,22 +65,22 @@ add class 'form-toggle' to name & phone fields - to enable show/hide
 
 * add code block: paste HTML
 
-`<div id="footer-logos">`
+````<div id="footer-logos">
 
-`<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />`
+<img class="footer-logos-left" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/peoplevoil.svg" />
 	
-	`<ul class="footer-social-media">`
+	<ul class="footer-social-media">
 	
-		'<li><a href="https://twitter.com/"><i class="fa fa-twitter fa-2x"></i></a></li>`
-		'<li><a href="https://www.facebook.com/"><i class="fa fa-facebook-official fa-2x"></i></a></li>`
-		'<li><a href="https://www.youtube.com/"><i class="fa fa-youtube-play fa-2x"></i></a></li>`
-		'<li><a href="https://www.instagram.com/"><i class="fa fa-instagram fa-2x"></i></a></li>`
+		<li><a href="https://twitter.com/"><i class="fa fa-twitter fa-2x"></i></a></li>
+		<li><a href="https://www.facebook.com/"><i class="fa fa-facebook-official fa-2x"></i></a></li>
+		<li><a href="https://www.youtube.com/"><i class="fa fa-youtube-play fa-2x"></i></a></li>
+		<li><a href="https://www.instagram.com/"><i class="fa fa-instagram fa-2x"></i></a></li>
 	
-	`</ul>`
+	</ul>
 
-	'<img class="footer-logos-right" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/greenpeace-black.svg" />'
+	<img class="footer-logos-right" height="25" src="https://www.peoplevsoil.org/assets/peoplevsoil2018/img/greenpeace-black.svg" />
 	
-`</div>`
+</div>````
 
 * add text block paste HTML in source editor
 
