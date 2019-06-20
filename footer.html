@@ -96,6 +96,7 @@ $('#en__field_supporter_emailAddress').keyup(function(e){
 	e.target.value = e.target.value.replace(/,/g, '.'); /* replace commas with dots */
 });
 
+/* check if using editor so that hidden fields can be edited. */
 var ENeditor = $('body').attr('id')=='EN__RootElement';
 if( ENeditor==false ){
     console.log( 'ENeditor', ENeditor );
